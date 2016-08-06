@@ -1,6 +1,6 @@
 {
   "name": "taiwan-colors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "根據《台灣顏色》這本書提供的色票所製作的網站",
   "author": "Amo Wu <amo260@gmail.com>",
   "private": true,
